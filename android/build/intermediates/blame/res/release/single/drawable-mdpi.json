@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-mdpi/monster.png",
+        "source": "/media/andreas/Data/LibGdxDrop/android/res/drawable-mdpi/monster.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/media/andreas/Data/LibGdxDrop/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]

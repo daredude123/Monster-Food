@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andreas/.android/build-cache/8e58adc30b8cfc79e1dacec7ab95b2a49ccbfcae/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b6c5990c62a55c25dfd21442c65844567f2d5372.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/69f0fe1a268c7e51f7f60e01fa7004e3389b3a8f/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1ec57aa598422ba58c47d9288bc1b825b39eccd1.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/9cfa051032a698c435de661385f120a20ba76698/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="ef6bde728977c91b3240eba1da9751eb7737849d">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-969d6356ff206f222c33480b321af7ce0212226a.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        revision="25.0.0"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gdx-box2d-1.9.6-749081148ebb7e3af03375d3e5b0709636e1e96e.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/fb8e07ff2ad6c7e7d251736d11605f7662413875/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-49fc1505372006e64124a4a7b7f941d928ffd309.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6528eac0c3fb2b4c04a0c649cb6992ab98c31a69.jar" />
+    </item>
+    <item
+        jar="/media/andreas/Data/Android/sdk/platforms/android-21/android.jar"
+        revision="25.0.0"
+        sha1="d77ef97c5800106b74180850a639bffe396a20ad">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-571f328216133e0576e6bc1119c71fa03ec453a3.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        revision="25.0.0"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gdx-1.9.6-6a985f22b0161ac1a031cb440dd3ee5cfa181bd4.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/dd4f08c38484e1d9d30e494a2f166f5ef0c61a57/output/jars/libs/internal_impl-24.0.0.jar"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.0.0-265fb0dc846e0c8c2360d3bf37636770d9ee7154.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/1502ba31d1bd67e0c95bd43121cee71ace6330bf/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-195cef3cfea3b2573bde5445c672f940b8047b6e.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/2ae96bd5227ba576ad579de595fa53d0d53a8767/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-abef017ddfa54b3dd18b52075c5ff97361f6d78b.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/2d9e962b9323731d6c1cb66290cfb8e16afafe21/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-763c0d66067fe316b17bc3401fbfc6ee2685feaa.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/ec4675fdb7d819deab1ee889fdad0da12cd6361d/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c0bc284e7335a752e9e77df8e896d6505bbc58c2.jar" />
+    </item>
+    <item
+        jar="/media/andreas/Data/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.0.0-ccf2ac62c07ac2b73ef4c30f7c5bf7d7690c39be.jar" />
+    </item>
+    <item
+        jar="/media/andreas/Data/LibGdxDrop/core/build/libs/core-1.2.jar"
+        revision="25.0.0"
+        sha1="fab157e5b617fcdc30c6fca40c79cb6d53755081">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/core-1.2-5f43615eaba590781d627c0362ecb85af34cf030.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        revision="25.0.0"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gdx-backend-android-1.9.6-6431ffaa8510b735d2cff162ae8beeeecfd16e71.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar"
+        revision="25.0.0"
+        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/google-services-3.0.0-d3a5df754f5e4c7300f4d274448b9c2f314897fa.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/f784ab0dead41a20f6cc261f25009c6d3f928c74/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b52cfe4cdef62ccbf44a540796661be6dddede12.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/daef03887affeb7b39fdbb76395fa43354d5f745/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5cc0565096dcf5ca2977fde65a920bf5d416e257.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/a9724168df6334236408f4cf9eb32de8881aeeb6/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="ef6bde728977c91b3240eba1da9751eb7737849d">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-002d8f571a03a8a9c9dffceecc91fc5d6df54654.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/a8372703e7797179b068290f08636b68c222e151/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c12b60552331e4d22053da6224bd86b2510b0205.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/46e9240a2536329140941fbb25c6767d785bc11d/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8d9e30e853a7090e284cf0b49e0315f1f2cce4eb.jar" />
+    </item>
+    <item
+        jar="/home/andreas/.android/build-cache/dd4f08c38484e1d9d30e494a2f166f5ef0c61a57/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/media/andreas/Data/LibGdxDrop/android/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e1e82bb875e7f160805f3ae80e33cb2c501c2d7c.jar" />
+    </item>
+
+</items>

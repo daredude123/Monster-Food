@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.5\c8098219abfe00b849cc43d461b1105fea3a2944\gdx-box2d-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.5_0a872acf2393b30c48844a56c2815521550fa847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_346cff3f19df28d621595798b813487b3a2240c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_8189253e997fadf3911b07400e8c45e85782cd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.google.gms\google-services\3.0.0\ee538ce9cf4148485e43017c5542202b8c78ff8e\google-services-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\google-services-3.0.0_5e5d26161888a511cf61fb4d26c01f2fb981f9f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_933ed5452e48435d1e65ff361127529d1093b534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\core\build\libs\core-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d99b32cff7a13d0fb67b2fa44f138a004261f9">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\core-1.1_42bd9a49d9b46aaf220761db400f8225907463f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\gdx-1.9.5_3a2db180f8b55a9311cf1a6f01d6524386d150a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_093d3f8ae6c2a3589aa2c9a8799d3d70fc9afee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_9324bef19262aa5bd71aad989c72731a8129476a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_ef2ab58c846d3d85c74a1e595f3131053d68f9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_760e41c8f42e877e08246599bc77625c6b3ae164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_2e7d038a9542d1c3bdc68875e930b2d52f0ae5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_597d3dcb390409ecff08a461f8d38169da1389d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_196e1eac6aa767c53531e098a8666b40d1b68116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_b7dd06adba562e9903eb91c4e37f0cc130763127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.5_53547b6b9d66025fd306f0cf4db019f4369360d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d6267d108258454c1b7083440e9338e477d733ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_bd2806524ad1fac4838a1cabfd27a87753371df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\LibGdxDrop\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\LibGdxDrop\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_0d4653a57e9293a5982daeb688c299198232728f.jar" />
+    </item>
+
+</items>

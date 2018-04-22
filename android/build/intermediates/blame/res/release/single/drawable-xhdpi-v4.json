@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    }
+]

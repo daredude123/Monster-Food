@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/media/andreas/Data/LibGdxDrop/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/andreas/.android/build-cache/702f032ea9cb3c77f5af5c39ff97a77e748b06ad/output/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,47 @@
+
+Buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_yes
+  rotate: false
+  xy: 1, 9
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+button_no
+  rotate: false
+  xy: 87, 9
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Button_Green
+  rotate: false
+  xy: 163, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Button_Red
+  rotate: false
+  xy: 213, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+crossButton
+  rotate: false
+  xy: 263, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hookButton
+  rotate: false
+  xy: 297, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
