@@ -1,5 +1,5 @@
 sourceSets.main.java.srcDirs = ["src/"]
-sourceCompatibility = '1.7'
+sourceCompatibility = '1.8'
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 ext {
     mainClassName = "com.mygdx.drop.IOSLauncher"
@@ -16,5 +16,5 @@ eclipse.project {
     natures 'org.robovm.eclipse.RoboVMNature'
 }
 dependencies {
-    compile project(':core')
+    implementation project(':core')
 }

@@ -1,0 +1,19 @@
+backgroundTextures.png
+size: 1440, 1280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level1Background
+  rotate: false
+  xy: 0, 0
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+level2Background
+  rotate: false
+  xy: 720, 0
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1

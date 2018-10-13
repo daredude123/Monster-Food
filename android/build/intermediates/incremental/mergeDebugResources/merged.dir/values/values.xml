@@ -8,7 +8,13 @@
     <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
-    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="AdsAttrs">
+<attr format="string" name="adSize"/>
+
+<attr format="string" name="adSizes"/>
+
+<attr format="string" name="adUnitId"/>
+</declare-styleable>
     <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
 <enum name="none" value="0"/>
 
@@ -16,7 +22,12 @@
 
 <enum name="adjust_height" value="2"/>
 
-</attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+</attr>
+
+<attr format="float" name="imageAspectRatio"/>
+
+<attr format="boolean" name="circleCrop"/>
+</declare-styleable>
     <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
 <enum name="standard" value="0"/>
 
@@ -24,14 +35,18 @@
 
 <enum name="icon_only" value="2"/>
 
-</attr><attr format="reference" name="colorScheme">
+</attr>
+<attr format="reference" name="colorScheme">
 <enum name="dark" value="0"/>
 
 <enum name="light" value="1"/>
 
 <enum name="auto" value="2"/>
 
-</attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+</attr>
+
+<attr format="reference|string" name="scopeUris"/>
+</declare-styleable>
     <integer name="google_play_services_version">10298000</integer>
     <string name="accept">Accept</string>
     <string name="app_name">Hungry monster</string>

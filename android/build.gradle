@@ -1,6 +1,6 @@
 android {
-    buildToolsVersion '25.0.0'
-    compileSdkVersion 21
+    buildToolsVersion '28.0.3'
+    compileSdkVersion 28
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -12,27 +12,26 @@ android {
             jniLibs.srcDirs = ['libs']
         }
 
-        instrumentTest.setRoot('tests')
     }
     packagingOptions {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        jackOptions {
-            enabled true
-        }
         applicationId "com.mygdx.drop"
         minSdkVersion 21
-        targetSdkVersion 25
+        targetSdkVersion 28
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
+        android.compileOptions.sourceCompatibility 1.8
+        android.compileOptions.targetCompatibility 1.8
     }
 }
 dependencies {
-    compile 'com.google.firebase:firebase-ads:10.2.0'
-    compile 'com.google.android.gms:play-services-ads:10.2.0'
-    compile 'com.google.firebase:firebase-messaging:10.2.0'
+    implementation 'com.google.firebase:firebase-ads:10.2.1'
+    implementation 'com.google.android.gms:play-services-ads:10.2.1'
+    implementation 'com.google.firebase:firebase-messaging:10.2.1'
+    implementation 'com.google.gwt:gwt-user:2.8.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
