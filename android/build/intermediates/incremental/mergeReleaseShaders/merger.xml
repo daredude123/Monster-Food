@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/media/andreas/Data/LibGdxDrop/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/media/andreas/Data/LibGdxDrop/android/src/release/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/mnt/Data/LibGdxDrop/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/mnt/Data/LibGdxDrop/android/src/release/shaders"/></dataSet></merger>
