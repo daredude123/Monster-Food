@@ -95,7 +95,6 @@
     <orderEntry type="library" exported="" name="Gradle: commons-logging-1.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: commons-codec-1.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: uast-162.2228.14" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: gdx-box2d-1.9.8" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gdx-box2d-1.9.8" level="project" />
+    <orderEntry type="module" module-name="core" exported="" />
   </component>
 </module>
