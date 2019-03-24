@@ -3,7 +3,6 @@ package com.mygdx.drop;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RelativeLayout;
-
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 import com.google.android.gms.ads.AdRequest;
