@@ -8,12 +8,13 @@ import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
-
+import com.google.android.gms.ads.MobileAds;
 
 
 public class AndroidLauncher extends AndroidApplication {
     private AdView madView;
     private final String ADCODE ="ca-app-pub-8592347779733291/4023317760";
+    private final String testADCODE = "ca-app-pub-3940256099942544/6300978111";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +22,7 @@ public class AndroidLauncher extends AndroidApplication {
 
         AndroidApplicationConfiguration cfg = new AndroidApplicationConfiguration();
 
+        MobileAds.initialize(this,testADCODE);
         RelativeLayout layout = new RelativeLayout(this);
         RelativeLayout.LayoutParams gameViewParams =
                 new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.WRAP_CONTENT,
@@ -31,7 +33,7 @@ public class AndroidLauncher extends AndroidApplication {
         layout.addView(gameView, gameViewParams);
 
         madView = new AdView(this);
-        madView.setAdUnitId(ADCODE);
+        madView.setAdUnitId(testADCODE);
         madView.setAdSize(AdSize.BANNER);
 
         RelativeLayout.LayoutParams adParams =

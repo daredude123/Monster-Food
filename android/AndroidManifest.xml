@@ -10,6 +10,10 @@
         android:icon="@drawable/monster"
         android:label="@string/app_name"
         android:theme="@style/GdxTheme" >
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8592347779733291~5639651767"/>
+        <!--android:value="ca-app-pub-8592347779733291/4023317760"/>-->
         <activity
             android:name="com.mygdx.drop.AndroidLauncher"
             android:label="@string/app_name" 
