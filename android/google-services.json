@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362144554018",
+    "firebase_url": "https://libgdxdrop.firebaseio.com",
+    "project_id": "libgdxdrop",
+    "storage_bucket": "libgdxdrop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362144554018:android:c504aeff54abd0ce",
+        "android_client_info": {
+          "package_name": "com.mygdx.drop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362144554018-n379portclgch2n6vbatqb391943ipst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.drop",
+            "certificate_hash": "50da86046a41754e5eaf41981e0d721d3914cd4e"
+          }
+        },
+        {
+          "client_id": "362144554018-28hn410u1vv5kt0na2tkhh9s4fjjqc51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhY-ryDhebpzR89bmD9rKV4rK8lWp0H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362144554018-28hn410u1vv5kt0na2tkhh9s4fjjqc51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
