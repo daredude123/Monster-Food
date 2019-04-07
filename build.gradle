@@ -6,19 +6,17 @@ buildscript {
         google()
     }
     dependencies {
-        classpath 'de.richsource.gradle.plugins:gwt-gradle-plugin:0.6'
+        classpath 'com.android.tools.build:gradle:3.3.2'
         classpath 'com.android.tools.build:gradle:3.3.2'
         classpath 'com.mobidevelop.robovm:robovm-gradle-plugin:2.3.0'
         classpath 'com.google.gms:google-services:4.2.0'
-        classpath 'com.github.triplet.gradle:play-publisher:1.0.2'
     }
 }
-play {
-    serviceAccountEmail = 'libgdx-drop-pipe@api-7596927502833988644-520970.iam.gserviceaccount.com'
-    serviceAccountCredentials = file('home/andreas/api-7596927502833988644-520970-312f9e2b6f82.json')
-}
+
+
 
 allprojects {
+
     apply plugin: "eclipse"
     apply plugin: "idea"
 
@@ -75,6 +73,7 @@ project(":android") {
 
         implementation 'com.google.gms:google-services:4.2.0'
     }
+
 }
 
 project(":core") {
