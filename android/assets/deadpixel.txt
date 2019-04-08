@@ -1,12 +1,12 @@
 deadpixel.png
-size: 12, 12
+size: 7, 7
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 deadpixel
   rotate: false
   xy: 1, 1
-  size: 10, 10
-  orig: 10, 10
+  size: 5, 5
+  orig: 5, 5
   offset: 0, 0
   index: -1
